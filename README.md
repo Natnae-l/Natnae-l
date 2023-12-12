@@ -1,3 +1,5 @@
+<img src="https://images.unsplash.com/photo-1546146830-2cca9512c68e?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" height="450px" width="90%" margin = "0 auto">
+
 <h1 align="center">Hi 👋, I'm Natnael Teklemariam</h1>
 <h3 align="center">A Software Engineer aimed on architecting Solutions</h3>
 
