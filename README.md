@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **InsightfulVerse**
 
-- 🌱 I’m currently working on **NodeJs, ExpressJS and MongoDB**
+- 🌱 I’m currently working on **NodeJs, ExpressJS, postgreSQL and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://natnaelt.netlify.app/](https://natnaelt.netlify.app/)
 
