@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **RabbitMQ, Apache pulsar, NodeJs, Golang(Go), ExpressJS, postgreSQL and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://natnaelt.netlify.app/](https://natnaelt.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://natnael-t.netlify.app/](https://natnael-t.netlify.app/)
 
 - 💬 Ask me about **express, react and backend systems**
 
