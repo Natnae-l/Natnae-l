@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://natnael-t.netlify.app/](https://natnael-t.netlify.app/)
 
-- 💬 Ask me about **express, react and backend systems**
+- 💬 Ask me about **ExpressJs, MongoDB, ReactJs and backend systems**
 
 - 📫 How to reach me **natnaelatverse@gmail.com**
 
